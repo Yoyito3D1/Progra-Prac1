@@ -32,3 +32,7 @@ Aquest projecte és una pràctica de programació orientada a objectes (POO) des
 2. Importa’l com a projecte Java a Eclipse o IntelliJ.
 
 3. Executa la classe AppUsuari.java.
+
+## 👤 Autor
+
+Elaborat per [@Yoyito3D1](https://github.com/Yoyito3D1) com a pràctica acadèmica.
