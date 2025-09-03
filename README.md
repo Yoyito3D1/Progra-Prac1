@@ -1,38 +1,26 @@
-# 📘 Progra-Prac1 – Gestor de Tips d’Usuari en Java
+# 📘 User Tips Manager (Java)
 
-Aquest projecte és una pràctica de programació orientada a objectes (POO) desenvolupada en Java. Simula un sistema de gestió de **"tips"** (consells o recomanacions) creats per diferents usuaris, amb funcionalitats per controlar mètriques com visualitzacions, likes, guardats i més.
+This Java project is an object-oriented programming (OOP) practice that simulates a system for managing "tips" (advice or recommendations) created by different users. It includes features for tracking metrics such as views, likes, saves, and more.
 
----
+## 🚀 Main Features
+- Create users with associated tips.  
+- Query and modify data using getters and setters.  
+- Increment metrics (views, likes, saves).  
+- Calculate view ratios and average views per day.  
+- Classify tips as useful or highly rated.  
+- Compare tips by duration or metrics.  
+- Adjust thresholds to determine if a tip is well-rated.
 
-## 🚀 Funcionalitats Principals
+## 🛠️ Technologies Used
+- **Language:** Java  
+- **Date Library:** java.util.Calendar  
+- **Recommended IDE:** Eclipse or IntelliJ  
 
-- Creació d’usuaris amb tips associats.
-- Consultes i modificació de dades mitjançant getters i setters.
-- Increment de mètriques (visualitzacions, likes, guardats).
-- Càlcul de **ratios de visualització** i **mitjanes de visualitzacions per dia**.
-- Classificació de tips com a **útils** o **ben valorats**.
-- Comparació entre tips per durada o mètriques.
-- Canvi de llindar per determinar si un tip està ben valorat.
+## ▶️ How to Run the Project
+1. Clone the repository: `git clone https://github.com/Yoyito3D1/Progra-Prac1.git`  
+2. Navigate to the project folder: `cd Progra-Prac1`  
+3. Import the project as a Java project in Eclipse or IntelliJ.  
+4. Run the class **AppUsuari.java**.
 
-## 🛠️ Tecnologies Utilitzades
-
-- **Llenguatge**: Java
-- **Libreria de dates**: `java.util.Calendar`
-- **IDE Recomanat**: Eclipse o IntelliJ
-
----
-
-## ▶️ Com Executar el Projecte
-
-1. Clona el repositori:
-   ```bash
-   git clone https://github.com/Yoyito3D1/Progra-Prac1.git
-   cd Progra-Prac1
-
-2. Importa’l com a projecte Java a Eclipse o IntelliJ.
-
-3. Executa la classe AppUsuari.java.
-
-## 👤 Autor
-
-Elaborat per [@Yoyito3D1](https://github.com/Yoyito3D1) com a pràctica acadèmica.
+## 📝 About
+This project demonstrates object-oriented programming in Java by simulating a user tips management system. It emphasizes encapsulation, class interactions, and metric tracking, providing a clear example of OOP principles applied to a small real-world scenario.
